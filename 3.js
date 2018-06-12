@@ -10,4 +10,4 @@ function changePossibilities(amount,denominations) {
     });
 
     return possibleCombinations[amount];
-    }
+}
